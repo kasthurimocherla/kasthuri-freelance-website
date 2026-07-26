@@ -180,4 +180,13 @@ h1 {
     height:350px;
 }
 
+ .profile-image {
+    width: 350px;
+    height: 420px;
+    object-fit: cover;
+    border-radius: 20px;
+    border: 2px solid #d4af37;
+    box-shadow: 0 20px 60px rgba(212,175,55,0.25);
+    display: block;
+}   
 }
